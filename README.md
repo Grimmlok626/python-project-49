@@ -10,3 +10,5 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Grimmlok626_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Grimmlok626_python-project-49)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Grimmlok626_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Grimmlok626_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Grimmlok626_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Grimmlok626_python-project-49)
+## Демонстрация игр
+[![Проверка на чётность](https://asciinema.org/a/ThT2MggtEhlSNkIdogxwGV9ER.svg)](https://asciinema.org/a/ThT2MggtEhlSNkIdogxwGV9ER)

@@ -10,14 +10,15 @@ def generate_question():
     return question, answer
 
 
-def check_answer(user_ans, correct_ans):
-    return user_ans.strip().lower() == correct_ans.lower()
-
-
 def main():
     run_game(
-        generate_question,
-        check_answer=check_answer,
-        game_description='Answer "yes" if the number is even, '
-                         'otherwise answer "no".'
+        generate_question=generate_question,
+        game_description=(
+            'Answer "yes" if the number is even, '
+            'otherwise answer "no".'
+        ),
     )
+
+
+if __name__ == '__main__':
+    main()

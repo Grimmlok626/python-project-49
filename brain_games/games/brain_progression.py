@@ -17,7 +17,7 @@ def generate_question():
 
 def main():
     run_game(
-        generate_question,
+        generate_question=generate_question,
         game_description='What number is missing in the progression?',
     )
 

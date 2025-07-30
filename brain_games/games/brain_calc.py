@@ -22,7 +22,7 @@ def generate_question():
 
 def main():
     run_game(
-        generate_question,
+        generate_question=generate_question,
         game_description='What is the result of the expression?'
     )
 

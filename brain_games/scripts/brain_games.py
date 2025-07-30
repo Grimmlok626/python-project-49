@@ -17,7 +17,7 @@ def run_game(
     if game_description:
         print(game_description)
     else:
-        print('What is the result of the expression?')
+        print('Answer the following questions:')
 
     for _ in range(ROUNDS_COUNT):
         question, correct_answer = generate_question()
@@ -27,7 +27,7 @@ def run_game(
             print(
                 f"'{user_answer}' is wrong answer ;(. "
                 f"Correct answer was '{correct_answer}'."
-                )
+            )
             print(f"Let's try again, {name}!")
             return
         else:

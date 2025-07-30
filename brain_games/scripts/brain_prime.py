@@ -20,7 +20,6 @@ def generate_question():
 
 
 def main():
-    print('Answer "yes" if given number is prime. Otherwise answer "no".')
     run_game(
         generate_question,
         game_description='Answer "yes" if given number is prime. '

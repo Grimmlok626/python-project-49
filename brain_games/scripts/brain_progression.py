@@ -19,7 +19,6 @@ def generate_progression():
 
 
 def main():
-    print('What number is missing in the progression?')
     run_game(
         generate_progression,
         game_description='What number is missing in the progression?',

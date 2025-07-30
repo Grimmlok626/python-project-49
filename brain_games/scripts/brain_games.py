@@ -33,3 +33,7 @@ def run_game(
         else:
             print('Correct!')
     print(f'Congratulations, {name}!')
+
+def main():
+    print('Welcome to the Brain Games!')
+    name = welcome_user()

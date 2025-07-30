@@ -27,3 +27,6 @@ def run_game(generate_question, check_answer=lambda user_ans, correct_ans: user_
         else:
             print('Correct!')
     print(f'Congratulations, {name}!')
+
+def main():
+    run_game()

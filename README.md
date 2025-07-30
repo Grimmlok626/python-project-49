@@ -15,3 +15,4 @@
 [![Калькулятор](https://asciinema.org/a/UB90cn7t5yidThpTBPZXbTWDy.svg)](https://asciinema.org/a/UB90cn7t5yidThpTBPZXbTWDy)
 [![НОД](https://asciinema.org/a/tdy0pPalKPhwSZATw7UnwN97K.svg)](https://asciinema.org/a/tdy0pPalKPhwSZATw7UnwN97K)
 [![Арифметическая прогрессия](https://asciinema.org/a/z1BB6hdDU8yHL3ysQ3xlF7BjG.svg)](https://asciinema.org/a/z1BB6hdDU8yHL3ysQ3xlF7BjG)
+[![Простое ли число?](https://asciinema.org/a/rQLKhiG7RuoDIZmYqHDHXUndZ.svg)](https://asciinema.org/a/rQLKhiG7RuoDIZmYqHDHXUndZ)

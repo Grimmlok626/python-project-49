@@ -12,3 +12,5 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Grimmlok626_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Grimmlok626_python-project-49)
 ## Демонстрация игр
 [![Проверка на чётность](https://asciinema.org/a/ThT2MggtEhlSNkIdogxwGV9ER.svg)](https://asciinema.org/a/ThT2MggtEhlSNkIdogxwGV9ER)
+[![Калькулятор](https://asciinema.org/a/UB90cn7t5yidThpTBPZXbTWDy.svg)](https://asciinema.org/a/UB90cn7t5yidThpTBPZXbTWDy)
+[![НОД](https://asciinema.org/a/tdy0pPalKPhwSZATw7UnwN97K.svg)](https://asciinema.org/a/tdy0pPalKPhwSZATw7UnwN97K)

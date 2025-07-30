@@ -5,7 +5,13 @@ from brain_games.cli import welcome_user
 ROUNDS_COUNT = 3
 
 
-def run_game(generate_question, check_answer=lambda user_ans, correct_ans: user_ans.strip().lower() == str(correct_ans).strip().lower(), game_description=''):
+def run_game(
+    generate_question,
+    check_answer=lambda user_ans, correct_ans: (
+        user_ans.strip().lower() == str(correct_ans).strip().lower()
+    ),
+    game_description=''
+):
     print('Welcome to the Brain Games!')
     name = welcome_user()
     if game_description:

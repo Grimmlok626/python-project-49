@@ -1,5 +1,7 @@
 import random
+
 from brain_games.scripts.brain_games import run_game
+
 
 def generate_progression():
     length = random.randint(5, 10)
@@ -15,12 +17,14 @@ def generate_progression():
     question = ' '.join(str(num) for num in progression_with_gap)
     return question, str(correct_answer)
 
+
 def main():
     print('What number is missing in the progression?')
     run_game(
         generate_progression,
         game_description='What number is missing in the progression?',
     )
+
 
 if __name__ == '__main__':
     main()

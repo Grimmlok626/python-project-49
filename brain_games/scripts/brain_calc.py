@@ -1,5 +1,7 @@
 import random
+
 from brain_games.scripts.brain_games import run_game
+
 
 def generate_question():
     operators = ['+', '-', '*']
@@ -17,11 +19,13 @@ def generate_question():
     
     return question, answer
 
+
 def main():
     run_game(
         generate_question,
         game_description='What is the result of the expression?'
     )
+
 
 if __name__ == '__main__':
     main()

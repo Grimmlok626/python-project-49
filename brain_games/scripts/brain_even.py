@@ -11,7 +11,7 @@ def generate_question():
 
 
 def check_answer(user_ans, correct_ans):
-    return user_ans.strip().lower() == correct_ans
+    return user_ans.strip().lower() == correct_ans.lower()
 
 
 def main():

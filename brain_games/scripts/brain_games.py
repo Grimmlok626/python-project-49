@@ -34,6 +34,7 @@ def run_game(
             print('Correct!')
     print(f'Congratulations, {name}!')
 
+
 def main():
     print('Welcome to the Brain Games!')
-    name = welcome_user()
+    welcome_user()
